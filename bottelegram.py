@@ -3,7 +3,7 @@
 
 import telebot
 #
-chave_api = "1982243772:AAGYqTOXqgMs46tNbdYDlsGU_VU3U1K_AWE"
+chave_api = "*************"
 
 #comando abaixo faz a conexão com Telegram atraves da chave_api
 bot = telebot.TeleBot(chave_api)
